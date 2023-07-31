@@ -2,7 +2,7 @@
   "name": "redeemcode-backend",
   "version": "1.0.0",
   "description": "redeemcode - We will create redeemcodes for free fire, free",
-  "main": "server.js",
+  "main": "app.js",
   "scripts": {
     "start": "node app.js"
   },
